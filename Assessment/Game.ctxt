@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ The\ Game\ class\ is\ used\ to\ generate\ games\ of\ finding\ pairs.\r\n\r\n\ @author\ (Yidan\ Zhang)\r\n\ @version\ (21/12/2018)\r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Create\ objects\ of\ class\ Game\r\n
+comment2.params=newFirstNum
+comment2.target=Game(int)
+comment2.text=\r\n\ Create\ objects\ of\ class\ Game\ with\ a\ given\ first\ number\r\n
+comment3.params=
+comment3.target=void\ inputList()
+comment3.text=\r\n\ Invite\ the\ user\ to\ enter\ the\ list\ of\ positive\ integers\r\n\ and\ check\ if\ the\ format\ is\ correct\r\n
+comment4.params=
+comment4.target=void\ inputNumber()
+comment4.text=\r\n\ Invite\ the\ user\ to\ enter\ the\ first\ number\r\n\ check\ if\ the\ content\ entered\ is\ number\r\n
+comment5.params=
+comment5.target=void\ menu()
+comment5.text=\r\n\ Generate\ the\ whole\ process\ of\ the\ game\r\n
+comment6.params=
+comment6.target=void\ outcome()
+comment6.text=\r\n\ Calculate\ all\ the\ pairs\ of\ number\ in\ the\ list\ that\ add\ up\ to\ the\ first\ number\r\n
+numComments=7
